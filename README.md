@@ -3,17 +3,19 @@
 **Article:** _Emergent Possibilities: A Sociotechnical Approach to Generative AI in Discourse Analysis_  
 **Author:** Dr Jay M. Woodhams  
 **Journal:** Research Methods in Applied Linguistics  
-**DOI:** [DOI TBC]
+**DOI:** \[TBC\]
 
 ### Contents
 
 This repository contains complete LLM-generated discourse analyses that supplement the main article. These outputs were generated using zero-shot prompting with the prompts provided in the published article.
 
 #### Political Priest Excerpt
+- `political-priest/authors-original-analysis.md` – Full analysis by the author
 - `political-priest/gpt-4o-analysis.md` – Full analysis by GPT-4o
 - `political-priest/gemini-25-flash-analysis.md` – Full analysis by Gemini 2.5 Flash
 
-#### Building Site Excerpt  
+#### Building Site Excerpt 
+- `building-site/authors-original-analysis.md` – Full analysis by the author
 - `building-site/gpt-4o-analysis.md` – Full analysis by GPT-4o
 - `building-site/gemini-25-flash-analysis.md` – Full analysis by Gemini 2.5 Flash
 
